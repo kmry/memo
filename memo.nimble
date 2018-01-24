@@ -4,7 +4,7 @@ description   = "Memoize Nim functions"
 license       = "Apache2"
 skipFiles     = @["test", "test.nim"]
 
-requires "nim >= 0.17.3"
+requires "nim >= 0.17.２"
 
 task test, "run memo tests":
   --hints: off
